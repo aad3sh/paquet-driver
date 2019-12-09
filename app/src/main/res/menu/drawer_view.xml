@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_new_orders"
+            android:checkable="false"
+            android:title="New Orders" />
+        <item
+            android:id="@+id/nav_ongoing_orders"
+            android:checkable="false"
+            android:title="Ongoing Orders" />
+        <item
+            android:id="@+id/nav_help"
+            android:checkable="false"
+            android:title="Help" />
+        <item
+            android:id="@+id/nav_payments"
+            android:checkable="false"
+            android:title="Payments" />
+        <item
+            android:id="@+id/nav_settings"
+            android:checkable="false"
+            android:title="Settings" />
+    </group>
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Paquet Driver</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoicmVka2F5IiwiYSI6ImNqN2lpb2xjeTF0MTgzMm5wamY2NXJ2emcifQ.yHlWsKDNfEd-7vKTysjjqQ</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="current_night_mode">current_night_mode</string>
+
+</resources>
+
